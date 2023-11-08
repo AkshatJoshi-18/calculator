@@ -63,7 +63,7 @@ body
 
 .b1 {
     background-position: center;
-    transition: background 0.2s;
+    transition: background 0;
   }
   .b1:active {
     background-color: yellowgreen;
